@@ -1,0 +1,5 @@
+{
+  "name": "Web Weaver",
+  "description": "A drag-and-drop web layout builder that allows users to visually construct a webpage and generate the corresponding HTML and Tailwind CSS code.",
+  "requestFramePermissions": []
+}
